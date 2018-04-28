@@ -1,6 +1,6 @@
 {
   "name": "repocreate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An over-engineered but ultra-fast tool to create Github repositories from command-line",
   "main": "cli.js",
   "bin": {
