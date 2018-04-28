@@ -7,9 +7,9 @@
 <img width="50px;" src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/12249a6024b6305759a62bfa1ce5c5b466f7d536/github/gitlogo.png">
 
 <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
-<br>
-<p align="center">An over-engineered but ultra-fast tool to create Github repositories from command-line!</p>
 </h1>
+
+<p align="center">An over-engineered but ultra-fast tool to create Github repositories from command-line!</p>
 
 ### Install
 
