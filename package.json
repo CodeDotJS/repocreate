@@ -1,0 +1,44 @@
+{
+  "name": "repocreate",
+  "version": "1.0.0",
+  "description": "An over-engineered but ultra-fast tool to create Github repositories from command-line",
+  "main": "cli.js",
+  "bin": {
+    "repocreate": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDotJS/repocreate.git"
+  },
+  "keywords": [
+    "cli",
+    "cli-app"
+  ],
+  "dependencies": {
+    "execa": "^0.10.0",
+    "fs-extra": "^5.0.0",
+    "jsonfile": "^4.0.0",
+    "log-update": "^2.3.0",
+    "ora": "^2.0.0",
+    "update-notifier": "^2.5.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.ml)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeDotJS/repocreate/issues"
+  },
+  "homepage": "https://github.com/CodeDotJS/repocreate#readme"
+}
