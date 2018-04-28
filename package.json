@@ -18,7 +18,15 @@
   },
   "keywords": [
     "cli",
-    "cli-app"
+    "cli-app",
+    "create",
+    "github",
+    "repository",
+    "repositories",
+    "command-line",
+    "fast",
+    "quick",
+    "github-api"
   ],
   "dependencies": {
     "execa": "^0.10.0",
